@@ -7,8 +7,9 @@ Installing the VScode did't take too much effort since I already have it on the 
 
 2.Remotely Connecting
 ---
+![Image](l1reset.png)
 ![Image](l1remoteconnection.png)
-I first reset the passwords, that isn't took too much time. But the reomote connection does not work out for me. I did reset the passwords, but when I type the password to log in, it just close the pathway. Might because I am still on the waitlist.
+I first follow the instruction and reset the passwords, that isn't took too much time. But the reomote connection does not work out for me. I did reset the passwords, but when I type the password to log in, it just close the pathway. Might because I am still on the waitlist.
 
 3.Trying Some Commands
 ---
